@@ -1,0 +1,3 @@
+/home/chenshengchen/CLionProjects/Serial port receiving/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chenshengchen/CLionProjects/Serial port receiving/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chenshengchen/CLionProjects/Serial port receiving/cmake-build-debug/CMakeFiles/Serial_port_receiving.dir

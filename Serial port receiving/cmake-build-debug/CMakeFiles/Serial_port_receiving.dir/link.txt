@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Serial_port_receiving.dir/main.cpp.o  -o Serial_port_receiving 
